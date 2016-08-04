@@ -1,0 +1,108 @@
+  392  git clone https://github.com/Rafael-Pessoni/GitExercises.git
+  393  git status
+  394  cd GitExercises/
+  395  git status
+  396  git add --all
+  397  git commit -m 'inclusão do primeiro arquivo'
+  398  git push --all
+  399  git add --all
+  400  git commit -m 'inclusão do segundo arquivo'
+  401  git push --all
+  402  git branch -b producao
+  403  git checkout -b producao
+  404  git status
+  405  git checkout master
+  406  git checkout -b requerimento1
+  407  git status
+  408  git commit -a -m 'adicionando o primeiro arquivo do requerimento 1'
+  409  git add requerimento\ -\ 1/
+  410  git status
+  411  git commit -a -m 'adicionando o primeiro arquivo do requerimento 1'
+  412  git status
+  413  git push --all
+  414  git checkout requerimento2
+  415  git checkout master
+  416  git checkout -b requerimento2
+  417  git add requerimento\ 2/documento\ -\ 1.txt
+  418  git status
+  419  git commit -m 'inclusão do primeiro arquivo do segundo requerimento'
+  420  git push --all
+  421  git checkout master
+  422  git status
+  423  git checkout requerimento1
+  424  git status
+  425  git add requerimento\ -\ 1/
+  426  git commit -m 'inclusão do segundo arquivo do primeiro requerimento'
+  427  git push --all
+  428* git checkout ma
+  429  git merge requerimento1
+  430  git push --all
+  431  git log --pretty=format:"%h %s" --graph
+  432  git log --graph
+  433  git log --pretty --graph
+  434  git log --pretty=format:"%h %s" --graph
+  435  git log --pretty=format:"%h %s" --graph
+  436  clear
+  437  git log --pretty=format:"%h %s" --graph
+  438  git checkout producao
+  439  git merge master
+  440  git push --all
+  441  git log --pretty=format:"%h %s" --graph
+  442  git checkout master
+  443  git log --pretty=format:"%h %s" --graph
+  444  git merge requerimento2
+  445  git status
+  446  git commit -m 'merge com inclusão do documento - 1 do requerimento 2'
+  447  git status
+  448  git push --all
+  449  git status
+  450  git log --pretty=format:"%h %s" --graph
+  451  git status
+  452  git add --all
+  453  git commit -m 'correção do nome da pasta do requerimento 2'
+  454  git push --all
+  455  git log --pretty=format:"%h %s" --graph
+  456  git checkout -b requerimento3
+  457  git commit -m 'inclusão do primeiro documento do requerimento 3'
+  458  git add --all
+  459  git commit -m 'inclusão do primeiro documento do requerimento 3'
+  460  git push --all
+  461  git checkout master
+  462  git branch -d requerimento1
+  463  git branch -d requerimento2
+  464  git status
+  465  git checkout producao
+  466  git status
+  467  git reset
+  468  git status
+  469  git checkout -- requerimento\ -\ 1/documento\ -\ 2.txt
+  470  git status
+  471  git checkout -b bug1
+  472  git commit -m 'correção do bug 1 dentro do documento 2 do requerimento 1'
+  473  git add --all
+  474  git commit -m 'correção do bug 1 dentro do documento 2 do requerimento 1'
+  475  git push --all
+  476  git checkout -- requerimento\ -\ 1/documento\ -\ 2.txt
+  477  git log --pretty=format:"%h %s" --graph
+  478  git checkout master
+  479  git merge bug1
+  480  git status
+  481  git commit -m 'resolução do merge do branch bug1 para o master'
+  482  git status
+  483  git push --all
+  484  git status
+  485  git log --pretty=format:"%h %s" --graph
+  486  git checkout producao
+  487  git merge bug1
+  488  git log --pretty=format:"%h %s" --graph
+  489  git branch -d bug1
+  490  git status
+  491  git status
+  492  git push --all
+  493  git status
+  494  git merge master
+  495  git push --all
+  496  git log --pretty=format:"%h %s" --graph
+  497  git checkout master
+  498  git log --pretty=format:"%h %s" --graph
+  499  history
