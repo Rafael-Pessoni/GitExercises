@@ -1,1 +1,2 @@
 inclusão do segundo documento do requerimento 2
+correção do bug 1
