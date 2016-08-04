@@ -107,4 +107,19 @@
   498  git log --pretty=format:"%h %s" --graph
   499  history
 
-  inclusão de commit --amend
+   10  git add --all
+   11  git commit -m 'inclusão de nova linha nos comandos'
+   12  git add --all
+   13  git commit --amend
+   14  git log --pretty=format:"%h %s" --graph
+   15  git push --all
+   16  git status
+   17  git add --all
+   18  git commit --amend
+   19  git push --all
+   20  git status
+   21  git pull --all
+   22  git status
+   23  git add --all
+   24  git commit
+   25  git push --all
