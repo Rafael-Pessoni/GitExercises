@@ -1,0 +1,8 @@
+
+links de referência
+
+https://git-scm.com/doc
+http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
+http://nvie.com/posts/a-successful-git-branching-model/
+https://www.atlassian.com/git/tutorials/comparing-workflows
+https://fjorgemota.com/git-flow-uma-forma-legal-de-organizar-repositorios-git/
