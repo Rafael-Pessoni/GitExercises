@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Ianko
 primeiro documento do requerimento 2
+=======
+Renan primeiro documento do requerimento 2
+Renan primeiro documento do requerimento 2
+Renan primeiro documento do requerimento 2
+Renan primeiro documento do requerimento 2
+
+>>>>>>> 32c327b50b5fbce1d257544267ec7f3bc9da2c9c
 primeiro documento do requerimento 2
 
 Ianko
