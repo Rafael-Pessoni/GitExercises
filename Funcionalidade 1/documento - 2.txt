@@ -1,4 +1,8 @@
+﻿<<<<<<< HEAD
+﻿inclus�o do segundo documento do requerimento 2
+=======
 Ianko
+>>>>>>> master
 inclus�o do segundo documento do requerimento 2
 Ianko
 inclus�o do segundo documento do requerimento 2
@@ -6,6 +10,10 @@ Ianko
 inclus�o do segundo documento do requerimento 2
 Ianko
 inclus�o do segundo documento do requerimento 2
+
+Cayo Cayo Cayo Cayo Cayo Cayo
+Cayo Cayo Cayo Cayo Cayo Cayo
+
 Ianko
 inclus�o do segundo documento do requerimento 2
 corre��o do bug 1
