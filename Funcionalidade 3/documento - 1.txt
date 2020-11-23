@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+
+
+=======
+>>>>>>> b9991f0d4ca43bf467ad62deb811d3d2e0e8a288
 primeiro documento do requerimento 3
 
 
@@ -12,6 +18,7 @@ Cayo Cayo Cayo Cayo Cayo Cayo
 Cayo Cayo Cayo Cayo Cayo Cayo
 
 JOAOJOAOJOAOJOAOJOAOJOAO
+<<<<<<< HEAD
 
 Ianko
 Ianko
@@ -28,3 +35,7 @@ Renan primeiro documento do requerimento 3
 Renan primeiro documento do requerimento 3
 Renan primeiro documento do requerimento 3
 >>>>>>> 32c327b50b5fbce1d257544267ec7f3bc9da2c9c
+=======
+JOAOJOAOJOAOJOAOJOAOJOAO
+>>>>>>> 6222e7847251774b1e966453c060dc5863726655
+>>>>>>> b9991f0d4ca43bf467ad62deb811d3d2e0e8a288
