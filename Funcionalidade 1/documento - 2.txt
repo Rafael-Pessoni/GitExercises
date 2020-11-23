@@ -29,6 +29,7 @@ inclus�o do segundo documento do requerimento 2
 inclus�o do segundo documento do requerimento 2
 inclus�o do segundo documento do requerimento 2
 corre��o do bug 1
+<<<<<<< HEAD
 corre��o do bug 1
 DEREKDEREKDEREKDEREKDEREKDEREK
 DEREKDEREKDEREKDEREKDEREKDEREK
@@ -45,3 +46,13 @@ Cayo Cayo Cayo Cayo Cayo Cayo
 Cayo Cayo Cayo Cayo Cayo Cayo
 >>>>>>> c51b9da6a711aa4f0f5adab745eb003391c95722
 
+=======
+Renan
+Renan
+Renan
+Renan
+Renan
+Renan
+Renan
+Renan
+>>>>>>> RENAN002-2020

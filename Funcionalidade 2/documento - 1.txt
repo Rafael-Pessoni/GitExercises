@@ -10,6 +10,7 @@ Renan primeiro documento do requerimento 2
 >>>>>>> RENAN001-2020
 primeiro documento do requerimento 2
 
+<<<<<<< HEAD
 Ianko
 Ianko
 Ianko
@@ -19,6 +20,8 @@ Ianko
 
 Cayo Cayo Cayo Cayo Cayo Cayo
 Cayo Cayo Cayo Cayo Cayo Cayo
+=======
+>>>>>>> RENAN002-2020
 
 primeiro documento do requerimento 2
 primeiro documento do requerimento 2
