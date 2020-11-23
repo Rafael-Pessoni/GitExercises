@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Ianko
 primeiro documento do requerimento 2
+=======
+Renan primeiro documento do requerimento 2
+Renan primeiro documento do requerimento 2
+Renan primeiro documento do requerimento 2
+Renan primeiro documento do requerimento 2
+
+>>>>>>> RENAN001-2020
 primeiro documento do requerimento 2
 
 Ianko
