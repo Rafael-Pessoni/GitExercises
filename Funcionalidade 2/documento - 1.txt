@@ -1,7 +1,6 @@
 Ianko
 primeiro documento do requerimento 2
 primeiro documento do requerimento 2
-<<<<<<< HEAD
 
 Ianko
 Ianko
@@ -14,9 +13,7 @@ Ianko
 Ianko
 Ianko
 
-=======
 Ianko
->>>>>>> master
 primeiro documento do requerimento 2
 primeiro documento do requerimento 2
 Ianko
