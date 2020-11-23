@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 Renan primeiro documento do requerimento 3
 Renan primeiro documento do requerimento 3
 Renan primeiro documento do requerimento 3
 Renan primeiro documento do requerimento 3
 Renan primeiro documento do requerimento 3
+=======
+primeiro documento do requerimento 3
+
+
+JOAOJOAOJOAOJOAOJOAOJOAO
+
+JOAOJOAOJOAOJOAOJOAOJOAO
+
+JOAOJOAOJOAOJOAOJOAOJOAO
+JOAOJOAOJOAOJOAOJOAOJOAO
+>>>>>>> 6222e7847251774b1e966453c060dc5863726655
