@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Ianko
 primeiro documento do requerimento 2
+=======
+Renan primeiro documento do requerimento 2
+Renan primeiro documento do requerimento 2
+Renan primeiro documento do requerimento 2
+Renan primeiro documento do requerimento 2
+
+>>>>>>> 32c327b50b5fbce1d257544267ec7f3bc9da2c9c
 primeiro documento do requerimento 2
 
+<<<<<<< HEAD
 Ianko
 Ianko
 Ianko
@@ -11,6 +20,8 @@ Ianko
 
 Cayo Cayo Cayo Cayo Cayo Cayo
 Cayo Cayo Cayo Cayo Cayo Cayo
+=======
+>>>>>>> b9991f0d4ca43bf467ad62deb811d3d2e0e8a288
 
 Ianko
 primeiro documento do requerimento 2

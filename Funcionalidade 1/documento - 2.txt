@@ -1,8 +1,5 @@
-﻿<<<<<<< HEAD
-﻿inclus�o do segundo documento do requerimento 2
-=======
+﻿﻿inclus�o do segundo documento do requerimento 2
 Ianko
->>>>>>> master
 inclus�o do segundo documento do requerimento 2
 Ianko
 inclus�o do segundo documento do requerimento 2
@@ -23,3 +20,32 @@ DEREKDEREKDEREKDEREKDEREKDEREK
 Ianko
 corre��o do bug 1
 Ianko
+
+Ianko
+corre��o do bug 1
+Ianko
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+inclus�o do segundo documento do requerimento 2
+corre��o do bug 1
+Renan
+Renan
+Renan
+Renan
+Renan
+Renan
+Renan
+Renan
+
