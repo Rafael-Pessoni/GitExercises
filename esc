@@ -1,0 +1,44 @@
+[33md36df1f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m merge: JOAO001-2020 - master
+[33md305091[m JOAO001-2020: alterando func1/doc1
+[33m8c34f4a[m bugfix na funcionalidade 2
+[33m72161b6[m merge master
+[33m84e9617[m melhorando funcionalidade 2
+[33m95a8414[m melhorando funcionalidade 1
+[33md86b65d[m melhorias na funcionalidade 3
+[33m4570485[m JOAO001-2020 - Alterando Funcionalidade 3/documento 1
+[33md25b34f[m adicionando melhorias a funcionalidade 2
+[33m13c833f[m JOAO001-2020 - Alterando Funcionalidade 2/documento 1
+[33mf5425d0[m adicionando melhorias a funcionalidade 1
+[33m3e2a86b[m alteração no repositório
+[33m475c187[m inclusão dos arquivos para a proposta de alteração
+[33md28c7cc[m[33m ([m[1;33mtag: v2.0.0[m[33m)[m Merge branch 'release/v2.0.0'
+[33m268d09f[m correção de bug em homologação
+[33m772b21c[m[33m ([m[1;33mtag: v1.1.2[m[33m)[m Merge branch 'release/v1.1.2'
+[33mda802d3[m Merge branch 'hotfix/BUG003' into develop
+[33mb046c69[m[33m ([m[1;33mtag: BUG003[m[33m)[m Merge branch 'hotfix/BUG003'
+[33m97b583c[m correção do bug 003 no arquivo documento 1
+[33mf60bcb0[m Merge branch 'feature/RQ002' into develop
+[33m93b66d6[m alterações no documento do requerimento 1
+[33m26050bf[m alterações no arquivo para o requerimento 2
+[33mb383375[m Merge branch 'master' into producao
+[33mcc1ccc1[m Merge branch 'requerimento3'
+[33m847f1f6[m[33m ([m[1;33mtag: v0.1.1[m[33m)[m Merge branch 'release/v0.1.1' into producao
+[33m36474ca[m Merge branch 'master' of https://github.com/Rafael-Pessoni/GitExercises
+[33m438414b[m Merge branch 'hotfix/001'
+[33m76520cc[m[33m ([m[1;33mtag: 001[m[33m)[m Merge branch 'hotfix/001' into producao
+[33me795160[m correção do bug
+[33m954bab0[m inclusao dos comandos de commit com amend
+[33m7686b83[m Merge branch 'master' of https://github.com/Rafael-Pessoni/GitExercises
+[33m138f3ee[m amend - inclusão de nova linha nos comandos
+[33m6ef8317[m inclusão de nova linha nos comandos
+[33m9d6908f[m inclusão do arquivo com os comandos utilizados para os exercicios
+[33md562d10[m resolução do merge do branch bug1 para o master
+[33m0fadeb5[m correção do bug 1 dentro do documento 2 do requerimento 1
+[33md707615[m inclusão do primeiro documento do requerimento 3
+[33m4da299f[m correção do nome da pasta do requerimento 2
+[33m8b628f1[m merge com inclusão do documento - 1 do requerimento 2
+[33m80fc2b9[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m inclusão do segundo arquivo do primeiro requerimento
+[33mf5d1c7b[m inclusão do primeiro arquivo do segundo requerimento
+[33mdaef981[m adicionando o primeiro arquivo do requerimento 1
+[33m8de34a8[m inclusão do segundo arquivo
+[33m9d617aa[m inclusão do primeiro arquivo
