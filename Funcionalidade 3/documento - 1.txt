@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-Renan primeiro documento do requerimento 3
-Renan primeiro documento do requerimento 3
-Renan primeiro documento do requerimento 3
-Renan primeiro documento do requerimento 3
-Renan primeiro documento do requerimento 3
+
+
 =======
 primeiro documento do requerimento 3
 
